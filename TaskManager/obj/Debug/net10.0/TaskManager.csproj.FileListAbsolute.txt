@@ -26,3 +26,4 @@ C:\Users\sebas\source\repos\dotnet-journey\TaskManager\obj\Debug\net10.0\refint\
 C:\Users\sebas\source\repos\dotnet-journey\TaskManager\obj\Debug\net10.0\TaskManager.pdb
 C:\Users\sebas\source\repos\dotnet-journey\TaskManager\obj\Debug\net10.0\TaskManager.genruntimeconfig.cache
 C:\Users\sebas\source\repos\dotnet-journey\TaskManager\obj\Debug\net10.0\ref\TaskManager.dll
+C:\Users\sebas\source\repos\dotnet-journey\TaskManager\obj\Debug\net10.0\TaskManager.sourcelink.json
