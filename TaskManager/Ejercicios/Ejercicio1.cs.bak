@@ -1,0 +1,20 @@
+string nombre = "Juan Pérez";
+int edad = 24;
+string lenguajeFavorito = "C#";
+decimal experiencia = 0.5m;
+bool disponible = true;
+
+Console.WriteLine("╔══════════════════════════════════╗");
+Console.WriteLine($"    Nombre:          {nombre}");
+Console.WriteLine($"    Edad:            {edad} años");
+Console.WriteLine($"    Lenguaje:        {lenguajeFavorito}");
+Console.WriteLine($"    Experiencia:     {experiencia}");
+Console.WriteLine($"    Disponible:      {(disponible ? "Sí" : "No")}");
+Console.WriteLine("╚══════════════════════════════════╝");
+
+// ¿Qué pasaría si cambias decimal por double para la experiencia?: En las pruebas que hice, muestra el valor exactamente igual para ambos escenarios, pero en el código, decimal usa m al final del valor y double no, entonces debo quitar o agregar la m dependiendo el tipo que escoja
+
+double d = 0.1 + 0.2;
+decimal m = 0.1m + 0.2m;
+Console.WriteLine(d); // sorpresa
+Console.WriteLine(m); // exacto
