@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NexusLab.Algorithms/NexusLab.Algorithms.csproj" />
+    <Project Path="src/NexusLab.Fundamentals/NexusLab.Fundamentals.csproj" />
+    <Project Path="src/NexusLab.Mathematics/NexusLab.Mathematics.csproj" />
+    <Project Path="src/NexusLab.Playground/NexusLab.Playground.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NexusLab.Algorithms.Tests/NexusLab.Algorithms.Tests.csproj" />
+    <Project Path="tests/NexusLab.Fundamentals.Tests/NexusLab.Fundamentals.Tests.csproj" />
+    <Project Path="tests/NexusLab.Mathematics.Tests/NexusLab.Mathematics.Tests.csproj" />
+  </Folder>
+</Solution>
